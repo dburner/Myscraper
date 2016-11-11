@@ -56,4 +56,5 @@ function run(db) {
 	});
 }
 
+$("#offers_table .offer")
 initDatabase(run);
